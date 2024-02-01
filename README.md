@@ -1,1 +1,1 @@
-# Credit-Scoring-Model
+# Credit-Scoring-Model-using Classification Algorithms
